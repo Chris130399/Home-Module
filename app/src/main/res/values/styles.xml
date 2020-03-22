@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/sf_bold</item>
+    </style>
+    
+
+    <!-- floating button -->
+    <style name="custom_fab">
+        <item name="android:background">@drawable/fab_actionbackground</item>
+        <item name="android:textColor">@color/off_white</item>
+        <item name="android:fontFamily">@font/sf_bold</item>
+        <item name="android:elevation">5dp</item>
+    </style>
+
+</resources>

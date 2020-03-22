@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670194234346",
+    "firebase_url": "https://emhome-e8837.firebaseio.com",
+    "project_id": "emhome-e8837",
+    "storage_bucket": "emhome-e8837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670194234346:android:29c98ce0463810ed753893",
+        "android_client_info": {
+          "package_name": "com.example.emhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670194234346-2b034848q4umd7k6trjs7i3d6pjgpgpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emhome",
+            "certificate_hash": "a7d9813820a6b51a3fcf6f259761b5f7feec144a"
+          }
+        },
+        {
+          "client_id": "670194234346-hc3p4vo6dd2o1ceneavv88kbipi4d5k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJAsPVmZIZyEwugnLyRzr1RjI9aEa5TQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670194234346-hc3p4vo6dd2o1ceneavv88kbipi4d5k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
